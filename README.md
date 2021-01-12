@@ -3,7 +3,7 @@
 ### Background
 This project is part of the third assignment of the Udacity Deep Reinforcement Learning Nanodegree focused on Collaboration and Competition on multi-agent environments.
 
-Here is a GIF of my trained agents playing tennis collector:
+Here is a GIF with 20 seconds of the agents playing tennis after achieving a score of 0.5:
 ![](results/tennis_training01112021.gif)
 
 ## Introduction
