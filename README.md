@@ -4,7 +4,7 @@
 This project is part of the third assignment of the Udacity Deep Reinforcement Learning Nanodegree focused on Collaboration and Competition on multi-agent environments.
 
 Here is a GIF of my trained agents playing tennis collector:
-![](GIF/)
+![](results/tennis_training01112021.gif)
 
 ## Introduction
 This project trains an agent to two agents control rackets to bounce a ball over a net, pretty much like a Tennis game.
@@ -31,7 +31,7 @@ The environment is considered solved, when the average (over 100 episodes) of th
 
 ## Getting Started
 
-1. Clone this repository: '<https://github.com/mgmendoza/DRL-BananaNavigation-test.git>'
+1. Clone this repository: '<https://github.com/mgmendoza/DRL-Tennis.git>'
 
 2. Follow the instructions specified in README of the [Deep Reinforcement Learning Nanodegree](https://github.com/udacity/deep-reinforcement-learning#dependencies) to set your python environment. The instructions will also help you install OpenAI gym, PyTorch, and ML-agents which are packages required to run the project.  
 
